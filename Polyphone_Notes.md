@@ -19,6 +19,7 @@ Polyphone is available from [davy7125](https://github.com/davy7125/polyphone) or
 * Panning is from -50 to 50, usually set automatically when adding samples to the instrument
 * Loop Playback offers three options by double-clicking the cell
 * all cells can be copied and pasted
+* __NOTE__: if you find that there is an octave gap between samples, like the B is an octave below the C adjacent to it, change the "Root Key" from 60 to 48. Do *not* try to use the "Tuning (Semi-tones)" row, as not all players support that tag yet.
 
 ### Presets Section
 
